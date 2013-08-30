@@ -202,7 +202,6 @@
             this.URLBox.Name = "URLBox";
             this.URLBox.Size = new System.Drawing.Size(575, 23);
             this.URLBox.TabIndex = 1;
-            this.URLBox.Text = "http://sps2010.atik.local";
             // 
             // loadButton
             // 
